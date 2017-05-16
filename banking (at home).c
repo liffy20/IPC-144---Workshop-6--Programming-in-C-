@@ -1,7 +1,6 @@
 /*/*
 == Banking - Savings Account ==
 
-Author	: Daniel Lifchitz
 Date	:
 Revision:
 Workshop: #6 At-Home
