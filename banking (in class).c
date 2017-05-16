@@ -1,7 +1,6 @@
 /*
 == Banking - Savings Account ==
 
-Author	: Daniel Lifchitz
 Date	: 2016-10-23
 Revision:
 Workshop: #6 in-Lab
